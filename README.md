@@ -3,7 +3,7 @@ Sameer Shaik Portfolio
 Welcome to my personal portfolio project!
 
 Visit the live site: 
-sameershaik18.netlify.app
+https://sameershaik18.netlify.app/
 
 About
 This is the source code for my personal developer portfolio. The site showcases my skills, projects, and experience as a web developer.
